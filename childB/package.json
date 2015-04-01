@@ -1,10 +1,9 @@
 {
-    "name": "exp-parent",
+    "name": "exp-childB",
     "version": "0.0.1",
     "author": "Victor Grishchenko",
     "files": ["README.md"],
     "dependencies": {
-        "exp-child": "file:./child",
-        "exp-childB": "file:./childB"
+        "exp-childB": "0.0.1"
     }
 }
