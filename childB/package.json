@@ -4,6 +4,6 @@
     "author": "Victor Grishchenko",
     "files": ["README.md"],
     "dependencies": {
-        "exp-childB": "0.0.1"
+        "exp-child": "0.0.1"
     }
 }
