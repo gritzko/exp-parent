@@ -1,6 +1,6 @@
 {
     "name": "exp-child",
-    "varsion": "0.0.1",
+    "version": "0.0.1",
     "author": "Victor Grishchenko",
-    "files": "README.md"
+    "files": ["README.md"]
 }
