@@ -1,0 +1,7 @@
+{
+    "name": "exp-parent",
+    "files": "README.md",
+    "dependencies": {
+        "exp-child": "file:child"
+    }
+}
